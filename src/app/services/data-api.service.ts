@@ -15,7 +15,7 @@ export class DataApiService {
 
  
 
-  apiURL = 'http://104.198.244.0:5048/api/auth/';
+  apiURL = 'http://104.198.244.0:5040/api/auth/';
   
   
   constructor(
